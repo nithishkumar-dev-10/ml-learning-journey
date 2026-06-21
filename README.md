@@ -43,7 +43,7 @@ It's my personal notebook for Machine Learning — where I document concepts, in
 | 04 | Random Forests | ✅ Done|
 | 05 | Gradient Boosting / XGBoost | ✅ Done|
 | 06 | Evaluation Metrics | ✅ Done |
-| 07 | Clustering (K-Means, DBSCAN) | 🔜 Planned |
+| 07 | Clustering (K-Means, DBSCAN) |  ✅ Done |
 | 08 | Neural Networks & Deep Learning | 🔜 Planned |
 
 ---
