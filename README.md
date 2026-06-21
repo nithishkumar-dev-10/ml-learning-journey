@@ -40,9 +40,9 @@ It's my personal notebook for Machine Learning — where I document concepts, in
 | 01 | Linear Regression | ✅ Done |
 | 02 | Logistic Regression | ✅ Done |
 | 03 | Decision Trees | ✅ Done |
-| 04 | Random Forests | 🔄 In Progress |
-| 05 | Gradient Boosting / XGBoost | 🔜 Up Next |
-| 06 | Evaluation Metrics | 🔜 Planned |
+| 04 | Random Forests | ✅ Done|
+| 05 | Gradient Boosting / XGBoost | ✅ Done|
+| 06 | Evaluation Metrics | ✅ Done |
 | 07 | Clustering (K-Means, DBSCAN) | 🔜 Planned |
 | 08 | Neural Networks & Deep Learning | 🔜 Planned |
 
