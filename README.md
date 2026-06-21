@@ -58,23 +58,33 @@ It's my personal notebook for Machine Learning — where I document concepts, in
 
 ## 🔭 Real ML Projects
 
-<div align="center">
-
 The notes here feed directly into these builds 👇
-
-[![TransReliant](https://img.shields.io/badge/🚆_TransReliant-ML%20%2B%20MLOps%20Railway%20Prediction-0a4a6e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/TransReliant)
-
-> ML + MLOps based transport reliability prediction system. Predicts ticket confirmation probability, delay risk, and overall reliability score using classification + regression models with a SHAP explainability layer.
-> 
-> `Python` · `scikit-learn` · `XGBoost` · `FastAPI` · `SHAP` · `Docker`
 
 ---
 
-[![KitchenStock AI](https://img.shields.io/badge/🧠_KitchenStock_AI-Smart%20Inventory%20%26%20Grocery%20Planner-0a4a6e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/kitchenstock-ai)
+### 🚆 TransReliant
+
+> ML + MLOps based transport reliability prediction system. Predicts ticket confirmation probability, delay risk, and overall reliability score using classification + regression models with a SHAP explainability layer.
+>
+> `Python` · `scikit-learn` · `XGBoost` · `FastAPI` · `SHAP` · `Docker`
+
+<div align="center">
+
+[![View TransReliant on GitHub](https://img.shields.io/badge/──────────%20View%20TransReliant%20on%20GitHub%20──────────-0a4a6e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/TransReliant)
+
+</div>
+
+---
+
+### 🧠 KitchenStock AI
 
 > Smart kitchen inventory & grocery planning system. Tracks ingredients, estimates consumption via behavior-based learning, and generates predictive grocery recommendations.
 >
 > `Python` · `ML` · `FastAPI` · `Automation`
+
+<div align="center">
+
+[![View KitchenStock AI on GitHub](https://img.shields.io/badge/──────────%20View%20KitchenStock%20AI%20on%20GitHub%20──────────-0a4a6e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/kitchenstock-ai)
 
 </div>
 
